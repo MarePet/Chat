@@ -1,0 +1,15 @@
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\bin\Debug\KlijentskiInterfejs.exe.config
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\bin\Debug\KlijentskiInterfejs.exe
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\bin\Debug\KlijentskiInterfejs.pdb
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\bin\Debug\Domen.dll
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\bin\Debug\Domen.pdb
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.FrmKlijent.resources
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.FrmLogin.resources
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.Properties.Resources.resources
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.CopyComplete
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.exe
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.pdb

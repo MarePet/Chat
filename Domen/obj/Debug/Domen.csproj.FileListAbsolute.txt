@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\Domen\bin\Debug\Domen.dll
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\Domen\bin\Debug\Domen.pdb
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\Domen\obj\Debug\Domen.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\Domen\obj\Debug\Domen.dll
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\Domen\obj\Debug\Domen.pdb

@@ -1,0 +1,15 @@
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\bin\Debug\FrmServer.exe.config
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\bin\Debug\FrmServer.exe
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\bin\Debug\FrmServer.pdb
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\bin\Debug\Domen.dll
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\bin\Debug\Domen.pdb
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\ServerskiInterfejs.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\ServerskiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\FrmServer.FrmLoginAdmin.resources
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\FrmServer.FrmServer.resources
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\FrmServer.Properties.Resources.resources
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\ServerskiInterfejs.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\ServerskiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\ServerskiInterfejs.csproj.CopyComplete
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\FrmServer.exe
+C:\Users\Marko\source\repos\ROK - Februar 2023 PONOVO\FrmServer\obj\Debug\FrmServer.pdb
